@@ -1,15 +1,18 @@
 p {
-    text-align: center; 
+    text-align: center;
 
 }
-h1  {
-      color: blueviolet;
-      text-align: center;
 
-    }
+h1 {
+    color: blueviolet;
+    text-align: center;
 
-    h2 {
-         text-align: center;
-    }
-    
-    
+}
+
+h2 {
+    text-align: center;
+}
+
+strong {
+    color: gainsboro;
+}
